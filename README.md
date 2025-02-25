@@ -15,6 +15,6 @@
 ### 3. luego que todas las librerias se hayan descargado procedemos a ejecutar el programa con "npm run dev"
 ### 4. Ir al navegador y copiar [localhost:3000](http://localhost:3000)
 
-####By Nelson Otoniel Maldonado Mazanarez 
+#### By Nelson Otoniel Maldonado Mazanarez 
 
 
